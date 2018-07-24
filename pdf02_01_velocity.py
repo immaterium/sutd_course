@@ -1,3 +1,4 @@
+# This program calculates the velocity given time and initial velocity.
 def position_velocity(v0,t):
     G = 9.81
     y = v0 * t - 0.5 * G * (t ** 2)
